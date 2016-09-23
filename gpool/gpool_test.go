@@ -1,7 +1,7 @@
 package gpool
 
 import (
-	"gpool"
+	"common/gpool"
 	"runtime"
 	"testing"
 	"time"
